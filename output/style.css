@@ -1,10 +1,14 @@
+body{
+    background-color: #b0e0e6;
+}
 .container-fluid .col-12 {
-    background-color: #00cdf1;
+    background-color: #77d4d4;
+ 
 }
 .card {
     background-color: #183d44;
-    margin-left: 10px;
-    margin-top: 20px;
+    margin-left: 6px;
+    margin-top: 10px;
 }
 .card-header{
     color: #fff;
