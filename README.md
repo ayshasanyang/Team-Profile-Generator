@@ -6,6 +6,6 @@ This is a Node CLI that takes employees information and generates a HTML file.
 The project must prompt the user to build an engineering team. An engineering
 team consists of a manager, and any number of engineers and interns.
 ##
-![Profile Generator](./images/run_test.gif)
+<img src="images/run_test.gif" width="100%" height="auto">
 
-![Profile Generator](./images/profile_generator.PNG)
+<img src="images/profile_generator.png" width="100%" height="auto">
