@@ -8,4 +8,4 @@ team consists of a manager, and any number of engineers and interns.
 ##
 <img src="images/run_test.gif" width="100%" height="auto">
 
-<img src="images/profile_generator.png" width="100%" height="auto">
+<img src="images/profile_generator.PNG" width="100%" height="auto">
