@@ -11,3 +11,5 @@ To test the application, cd to the test directory. Type this command, npm run te
 <img src="images/run_test.gif" width="100%" height="auto">
 
 <img src="images/profile_generator.PNG" width="100%" height="auto">
+
+<img src="images/team.gif" width="100%" height="auto">
