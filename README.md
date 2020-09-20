@@ -1,6 +1,6 @@
 # Team-Profile-Generator
 
-## Description
+## Description 
 This is a Node CLI that takes employees information and generates a HTML file.
 
-![Quiz App](./images/profile_generator.png )
+![Profile Generator](./images/profile_generator.png )
