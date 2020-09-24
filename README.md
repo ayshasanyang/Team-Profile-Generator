@@ -15,6 +15,17 @@ To test the application, cd to the test directory. Type this command, npm run te
 <p align="center">
 <img src="images/run_test.gif" width="600" >
 </p>
+
+## Usage
+1. Open your terminal, run the command node app.js.
+
+1. When prompted, enter the manager's information.
+
+1. Add additional team members role from the list.
+
+1. When all the team members have been added, the app automatically generates a team.html file into the output folder.
+
+
 <p align="center">
 <img src="images/profile_generator.PNG" width="600">
 </p>
