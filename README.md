@@ -12,10 +12,6 @@ ___
 ## Test
 To test the application, cd to the test directory. Type this command, npm run test. Then it shows a series of test results, green indicates the number of test passes and red indicates the number of the test fails.
 
-<p align="center">
-<img src="images/run_test.gif" width="600" >
-</p>
-
 ## Usage
 1. Open your terminal, run the command node app.js.
 
@@ -23,17 +19,14 @@ To test the application, cd to the test directory. Type this command, npm run te
 
 1. Add additional team members role from the list.
 
-1. When all the team members have been added, the app automatically generates a team.html file into the output folder.
+1. When all the team members have been added,
+ the app automatically generates a team.html file into the output folder.
 
-
-<p align="center">
-<img src="images/profile_generator.PNG" width="600">
-</p>
-
-<p align="center">
 <img src="images/team.gif" width="600" >
-</p>
 
+<img src="images/profile_generator.PNG" width="600">
+
+<img src="images/run_test.gif" width="600" >
 
 ## Technologies
 Team profile generator was build using:
